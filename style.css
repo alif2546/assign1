@@ -1,0 +1,252 @@
+.class1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+
+.class2 {
+    text-align: center;
+    color: white;
+font-family: 'Lobster', cursive;
+    font-size: 2opx;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: rgb(47, 255, 47);
+    border-radius: 8px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+
+
+
+}
+
+.donate {
+    text-align: center;
+
+
+}
+
+.div {
+    background-image: url(image/donation6.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0px;
+    font-family: 'Lobster', cursive;
+
+
+
+
+
+}
+
+.today {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+
+.today2 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    font-family: 'Lobster', cursive;
+
+
+}
+
+.div1 {
+    padding: 20px;
+    border: 20px;
+    background-color: rgb(236, 227, 227);
+    margin: 4px;
+    border-radius: 4px;
+    font-family: 'Lobster', cursive;
+   
+
+    
+
+
+}
+
+.div2 {
+    padding: 20px;
+    color: orangered;
+    border-style: solid;
+    border-color: orangered;
+    margin: 4px;
+    border-width: 2px;
+    border-radius: 4px;
+    font-family: 'Lobster', cursive;
+   
+  
+
+
+
+}
+
+.div3 {
+    padding: 20px;
+    background-color: rgb(236, 228, 227);
+    margin: 4px;
+    border-radius: 4px;
+    font-family: 'Lobster', cursive;
+}
+
+.div4 {
+    padding: 20px;
+    background-color: rgb(236, 228, 227);
+    margin: 4px;
+    border-radius: 4px;
+    font-family: 'Lobster', cursive;
+
+
+}
+
+.div5 {
+    padding: 20px;
+    background-color: rgb(236, 228, 227);
+    margin: 4px;
+    border-radius: 4px;
+    font-family: 'Lobster', cursive;
+}
+
+input {
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+}
+
+.tk {
+    text-align: center;
+    width: 40%;
+    margin: 60px auto;
+    border-bottom: 1px solid gray;
+    font-family: 'Lobster', cursive;
+
+
+}
+
+.tk input {
+    border: 0px;
+    outline: 0px;
+    font-family: 'Lobster', cursive;
+}
+
+a tk1 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.r {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.r1 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+
+}
+
+.main2 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Lobster', cursive;
+}
+
+.d1 {
+   background-color: rgb(160, 231, 160);
+    padding: 30px;
+    margin: 8px;
+    border-radius: 2ex;
+    font-family: 'Lobster', cursive;
+
+}
+
+.d2 {
+
+   background-color: cyan;
+    padding: 30px;
+    margin: 8px;
+    border-radius: 2ex;
+    font-family: 'Lobster', cursive;
+
+}
+
+.d3 {
+
+    background-color: rgb(47, 255, 47);
+    padding: 30px;
+    margin: 8px;
+    border-radius: 2ex;
+    font-family: 'Lobster', cursive;
+
+}
+
+.update1,
+.update2 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.color {
+    padding: 40px 20px;
+    background-color: rgb(212, 212, 124);
+    margin: 20%;
+    font-family: 'Lobster', cursive;
+}
+
+.email {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.emailhead {
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 50px;
+    background-color: bisque;
+    font-family: 'Lobster', cursive;
+}
+
+.foot {
+    margin-top: 50px;
+    text-align: center;
+    color: orangered;
+    font-style: italic;
+    background-color: black;
+    padding: 2%;
+    font-family: 'Lobster', cursive;
+}
+
+.mail {
+    border: none;
+    background-color: rgb(171, 208, 209);
+    padding: 5px;
+    color: white;
+    font-family: 'Lobster', cursive;
+
+}
+
+.mail2 {
+    border: none;
+    padding: 5px 15px;
+    background-color: rgb(230, 4, 4);
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+.do{
+    color: white;
+}
